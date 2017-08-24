@@ -1,0 +1,40 @@
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\TLTC_MES.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\TLTC_MES.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\stdole.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\office.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\Microsoft.Vbe.Interop.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\IOM.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\TLTC_MES.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\TLTC_MES.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Net.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Diagnostics.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\IOM.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Net.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Diagnostics.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\TLTC_MES.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\TLTC_MES.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\stdole.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Net.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\office.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Diagnostics.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\IOM.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\NLog.xml
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Net.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\bin\Debug\Aras.Diagnostics.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.csprojResolveAssemblyReference.cache
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES\obj\Debug\TLTC_MES.pdb

@@ -1,0 +1,11 @@
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\TLTC_Method.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\TLTC_Method.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\IOM.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\Aras.Net.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\Aras.Diagnostics.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\IOM.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\Aras.Net.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\bin\Debug\Aras.Diagnostics.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\obj\Debug\TLTC_Method.csprojResolveAssemblyReference.cache
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\obj\Debug\TLTC_Method.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_Method\obj\Debug\TLTC_Method.pdb

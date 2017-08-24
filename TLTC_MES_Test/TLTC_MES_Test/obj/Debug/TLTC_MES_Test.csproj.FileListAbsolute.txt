@@ -1,0 +1,83 @@
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.exe
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwERPAppLayer.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwLangResources.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\GSEOFunction.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\IOM.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\NLog.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwInnovatorCore.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwCoreFuncs.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\stdole.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\office.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Microsoft.Vbe.Interop.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\IOM.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\NLog.xml
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Net.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Diagnostics.dll
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Net.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Diagnostics.pdb
+c:\users\user\documents\visual studio 2015\Projects\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\GSEOFunction.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.exe
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.Form1.resources
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.exe
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwERPAppLayer.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwLangResources.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\GSEOFunction.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\IOM.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwInnovatorCore.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Net.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwCoreFuncs.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Diagnostics.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\GSEOFunction.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\IOM.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Net.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Diagnostics.pdb
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.exe.config
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_Lab.dll
+C:\Users\Administrator\Desktop\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_Lab.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.exe.config
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.exe
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.exe
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\TLTC_MES_Test.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwERPAppLayer.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwLangResources.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\IOM.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\NLog.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwInnovatorCore.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Net.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\bwCoreFuncs.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Diagnostics.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\stdole.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\office.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\IOM.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\NLog.xml
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Net.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\bin\Debug\Aras.Diagnostics.pdb
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.csprojResolveAssemblyReference.cache
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.Form1.resources
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.Properties.Resources.resources
+D:\Aras Server\TLTC_MES_Test\TLTC_MES_Test\obj\Debug\TLTC_MES_Test.csproj.GenerateResource.Cache
